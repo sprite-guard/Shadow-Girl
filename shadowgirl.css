@@ -1,0 +1,24 @@
+body {
+  font-family: "Times New Roman", Georgia, Serif;
+}
+
+.title {
+  text-align: center;
+  font-size: 250%;
+  font-variant: small-caps;
+  font-weight: 900;
+}
+
+.author {
+  text-align: center;
+  font-size: 150%;
+  font-weight: bold;
+}
+
+.story {
+  text-align: left;
+  font-size: 100%;
+  font-weight: normal;
+  font-variant: normal;
+  font-style: normal;
+}

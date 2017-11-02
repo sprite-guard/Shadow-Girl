@@ -1,0 +1,207 @@
+NaNoGenMo entry 2017
+
+She of Shadows
+
+This will be a Tracery that generates an entire pulp novel
+based on fixed story beats and a very strict formula
+even more strict than the Doc Savage formula.
+
+Shadow Girl is our main protagonist, who lives in shadows
+and travels through them. The narrator is a shlub who gets
+mixed up in her affairs and relates them without playing a
+major role in them. He is somehow slightly omniscient,
+maybe because she tells him what she has done from time to
+time, but mostly as a convenience.
+
+Generative devices that might be useful:
+Travelogue: Shadow Girl will travel through the multiverse
+and each location will have notable features that can be
+remarked upon. Some devices may get propagated into the
+action, for instance if a certain god requires cedar boughs
+then we'll save that as a macguffin.
+
+Battle scene: name the characters and throw them at each
+other like Garos and Fodos. These can be padded out way
+longer than GvF, and like DBZ they can be parceled out
+in groups of events that each play out like their own
+pulp episode - like how during Frieza arc Vegeta and King
+Kai keep calling the match long before it's over.
+
+Massacre: throw a bunch of mooks at SG, and show how she
+can tear through them, like the hammer scene in Oldboy.
+
+Stealth scene: she has to sneak past some unnamed mooks.
+
+Stealth massacre: she takes out mooks one by one.
+
+Color character: Like the Tiny Space Adventure Twitter bot.
+Just some passing reference to some peculiar thing that
+SG encounters during her travels through the multiverse.
+She might run into them while she is looking for clues.
+
+Digression: This can be like a whole pulp story in itself,
+maybe told by one of the characters that she meets along
+the way. These could affect the main story in small ways,
+as long as we're careful not to give anyone multiple origin
+stories.
+
+Intelligence: This is a prelude to travel, and may be part
+of a digression. Someone tells SG, or she somehow finds out
+(maybe by eavesdropping) where in the multiverse she should
+investigate next.
+
+
+First act:
+
+First line: introduce our hero and swat her with a fistful
+of trouble. She comes rushing into Narrator's home, in the
+middle of some new trouble, and gives some vague hinting
+to N. Briefly recap who she is and how N met her, along
+with a little bit about her powers and the multiverse.
+
+We're in-media-res here, she's telling the narrator about
+how she found this trouble and how she started to deal with
+it. She'll also introduce the major players, supernatural
+entities that are interested in the focus. Set the focus
+here, but don't introduce it yet, only show its effects.
+
+She needs something from N. Maybe a blood pact, maybe some
+device that she has left with him, maybe something weirder
+like a memory or a feeling. Maybe she just needs some
+comfort and encouragement.
+
+Minor entities arrive at N's home, and SG battles them.
+
+Defeating the minor entities reveals that the trouble
+goes deeper into the multiverse, and SG leaves the
+narrator to go investigate. Narrator watches her via their
+special psychic bond that they share because they're banging.
+
+Second act:
+
+Here begins a fairly rambling portion where SG travels through
+the multiverse meeting characters and going to places. We need
+to be a little careful not to send her to places that are too
+similar one right after another, but from book to book it should
+be fine for her to visit similar places. Office buildings,
+labyrinths, weird combinations of the two, Winchester houses,
+far weirder things.
+
+Along the way there should be a good variety of encounters:
+Travelogues
+Color characters
+Informants
+Digressions
+Stealth ghost missions
+Stealth massacre missions
+Midboss battles
+
+During nonviolent sections, heap on trouble: a ticking clock,
+innocents in danger, a pursuing force too powerful to fight,
+a fleeing enemy, a trail being destroyed, etc.
+
+Midway point: another plot twist. Someone important but not
+essential gets killed off, or betrays her.
+
+Third act:
+
+Things are incredibly dire. She starts burning through plot
+tokens built up during the first two acts. Gods and demons are
+getting involved. Deus ex machinae fly like arrows.
+
+This should be part of a nested structure with the second act,
+with a stored up cache of items and favors that she will call
+on one by one in order to deal with the problems that she meets
+during the third act. Each type of solution should have its own
+story template, and we should vary it up, making sure that earned
+favors, surprise favors, plot tokens and coincidences all show
+up and don't repeat.
+
+SG gets in a fight she can't win. Some god or demon isn't happy
+with her meddling, or is in between her and success. This will
+be the longest and most drawn-out action scene in the book.
+We're going full DBZ here, with lots of back-and-forth, each
+phase of the fight reads like its own little pulp story where
+the hero is thrown to the ropes and seems almost dead.
+
+The act ends on a cliffhanger: she is completely defeated, and
+the villain is gloating, ready to destroy her. Her life is spared
+through some pyrrhic miracle like a Cell Games-style bargain,
+the villain's desire to further torture her, or some equally bad
+force removing her to serve its own ends.
+
+Fourth act:
+
+Shadow Girl is at her nadir. She is imprisoned, and something terrible
+is about to happen to her. Allies have betrayed her. Narrator looks
+on helplessly, and tries to figure out some way to help her. He is
+forced to watch powerless as the villain torments her. I'm sure that
+writing the torture scenes will be a great deal of fun.
+
+She uses some power internal to herself to escape. She might reach deep
+into herself to find the strength to break her chains, or talk her way
+out, or take advantage of a temporary weakness, or somehow sneak away,
+or maybe even do something crazier like mind-controlling her captor.
+Whatever she does, it has to come entirely from inside her, and it has
+to be something that she did not have access to until she reached her
+absolute limit.
+
+Now we get another fight, but this time the tables are turned. SG is
+stronger, and the villain gradually realizes they are outmatched. There
+can be a few little switches because SG will at this point realize that
+she is more powerful, and it might briefly go to her head, but for the
+most part she is just rising up to the level she needs to rise to,
+she can overpower the villain but it takes everything she's got.
+
+Now we have to wrap it up. The villain is defeated, but what does that
+mean? What has SG accomplished? She is still in the fortress, and
+needs to escape, which could be hard as tired as she is. Are the mooks
+glad to be liberated, or angry that their protector was killed?
+Has the mystery been resolved? No, she has gone on this long and
+rambling adventure that has lead her to something so much bigger than
+the original mystery that it has been forgotten. She's too tired now,
+so she returns to N, and they rest together for a while.
+
+End with the narrator suggesting that she'll get bit by wanderlust
+again before too long. The biggest mystery still hangs over her,
+and she knows that eventually she'll have to go out and try to
+face it once again.
+
+
+Chapters:
+! = combat
+? = stealth
+
+Her Arrival and New Trouble
+Strangers Attack!
+Farewell Again
+
+The First Clues
+(2nd act stuff)
+Betrayal
+
+An Act of Despiration
+Another Favor
+An Unexpected Savior
+A Dire Warning
+The Boss Attacks!
+Shadow Girl's Counter Attack!
+Boss Unleashed!
+An Ally Appears!
+Boss On the Ropes!
+The Minions Arrive!
+Ally Defeated!
+Shadow Girl Ascends!
+Shadow Girl Defeated!
+A Pyrrhic Miracle
+
+In The Belly of the Beast
+N's Gamble
+Limit Break!
+She Is Limitless!
+Boss' Despiration!
+A Gloat Too Far!
+Her Final Blow!
+Fleeing the Fortress?
+More Questions than Answers
+A Day of Peace
